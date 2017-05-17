@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "186969955133",
+    "firebase_url": "https://kristalltransmobile-609dc.firebaseio.com",
+    "project_id": "kristalltransmobile-609dc",
+    "storage_bucket": "kristalltransmobile-609dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186969955133:android:a677b6647e96a6d9",
+        "android_client_info": {
+          "package_name": "by.kristalltrans.kristalltransmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186969955133-tcrf9ntsqun40m76tt9f9ues2u12rngv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "by.kristalltrans.kristalltransmobile",
+            "certificate_hash": "31030A6E720C533F690F49C84D531DC6066EA04B"
+          }
+        },
+        {
+          "client_id": "186969955133-l99n6fmnth2tortua8klpj4pu1cf60k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOeXLjmpeaA7EYNL7mOPvnKJas09mV52c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186969955133-l99n6fmnth2tortua8klpj4pu1cf60k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
